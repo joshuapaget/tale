@@ -1,15 +1,12 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Baus"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+I am a photographer and videographer travelling around LA. Shooting bands, models, and polititians.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I study at Pierce College, where I am the Associated Student Organization's (ASO) Publishing Commissioner. My job is to help the college's clubs popularize their events and make news easily accessable.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+I ran an online video gaming community since I was 15, and ran events every week for two years straight. I averaged about fifty people gaming in each event. I organized it successfully because I did not base the community's membership based off rules, but instead by a belief system. Everyone who wanted to join took a pledge to "Honor, Respect, and Protect our Friends, Memebers, and Community." Each member held each other to the pledge and led to the creation of great events, lots of friends, and memories that will never be forgotten.
