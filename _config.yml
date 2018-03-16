@@ -1,7 +1,7 @@
 # Site settings
 title:          Joshua "Baus" Paget
 description:    ""
-baseurl:        "/website"
+baseurl:        "/"
 url:            "https://joshbaus.com"
 
 # Author
