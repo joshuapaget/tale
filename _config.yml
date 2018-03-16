@@ -1,14 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Joshua "Baus" Paget
+description:    ""
 baseurl:        "/website"
-url:            "https://chesterhow.github.io"
+url:            "https://joshbaus.com"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Joshua "Baus" Paget
+  url:          https://joshbaus.com
+  email:        contact@joshbaus.com
 
 # Build settings
 markdown:       kramdown
