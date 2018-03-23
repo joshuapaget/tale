@@ -25,3 +25,9 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+
+# Analytics
+analytics:
+  provider: "google-universal"
+  google:
+ 	tracking_id: "UA-116340730-1"
