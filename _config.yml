@@ -27,4 +27,4 @@ permalink:      /:year-:month-:day/:title
 paginate:       5
 
 # Analytics
-google_analytics: UA-116340730-1
+google_analytics: "UA-116340730-1"
